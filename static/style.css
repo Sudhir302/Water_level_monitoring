@@ -7,7 +7,7 @@
 body{
     position: relative;
     height: 100vh;
-    background-color: rgb(153, 167, 179);
+    background-color: rgb(233, 238, 241);
 }
 
 h2{
@@ -55,6 +55,13 @@ h2{
     justify-content: center;
     background-color: #b08c3e;
     align-self: center;
+}
+
+#search{
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    height:2rem;
+    text-align: center;
 }
 
 footer{
